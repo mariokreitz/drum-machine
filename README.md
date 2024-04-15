@@ -1,4 +1,5 @@
 # drum-machine [![Netlify Status](https://api.netlify.com/api/v1/badges/c0589c3f-191c-401f-85bd-5164be90ca6e/deploy-status)](https://app.netlify.com/sites/minimalistic-drum-machine/deploys)
+![vorschau](https://raw.githubusercontent.com/mariokreitz/drum-machine/main/src/assets/drum_machine_cover.png)
 
 Ein einfaches Drum-Machine-Projekt erstellt mit React und Vite.
 
